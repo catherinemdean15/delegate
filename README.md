@@ -1,7 +1,7 @@
 # Delegate
 
 ## Description
-Viewing party is an application in which users can explore movie options and create a viewing party event for the user and their friends.
+Delegate is an application in which users can send email or text reminders for corresponding tasks and projects. 
 
 ## Table of Contents
 - [Schema](#schema)
