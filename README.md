@@ -1,24 +1,11 @@
-# README
+# Delegate
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
+Viewing party is an application in which users can explore movie options and create a viewing party event for the user and their friends.
 
-Things you may want to cover:
+## Table of Contents
+- [Schema](#schema)
 
-* Ruby version
+## Initial Schema
+![Schema](<img width="1261" alt="delegate schema " src="https://user-images.githubusercontent.com/69832134/189795390-17e9f755-830d-47db-b2f5-38e98ddd7436.png">)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
