@@ -7,5 +7,5 @@ Viewing party is an application in which users can explore movie options and cre
 - [Schema](#schema)
 
 ## Initial Schema
-![Schema](<img width="1261" alt="delegate schema " src="https://user-images.githubusercontent.com/69832134/189795390-17e9f755-830d-47db-b2f5-38e98ddd7436.png">)
+![Schema](https://user-images.githubusercontent.com/69832134/189795390-17e9f755-830d-47db-b2f5-38e98ddd7436.png)
 
