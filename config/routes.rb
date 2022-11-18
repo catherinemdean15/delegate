@@ -3,7 +3,9 @@ Rails.application.routes.draw do
 
   get 'auth/:provider/callback' => 'sessions#omniauth'
 
-  resources :users, only: %i[create destroy] do
+  resources :users, only: %i[create destroy]
+
+  resources :projects, only: %i[create update destroy] do
     member { get 'dashboard' }
   end
 end

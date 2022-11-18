@@ -1,0 +1,6 @@
+<h1>Your Projects</h1>
+
+<%= link_to 'Add new', '/projects/new', method: :get %>
+  <% @projects.each do |project| %>
+      <h3><%= link_to "#{projects.name}", "/projects/#{project.id}", method: :get %></h3>
+  <% end %>
