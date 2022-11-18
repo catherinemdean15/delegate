@@ -4,7 +4,7 @@ class SessionsController < ApplicationController
 
     if user.valid?
       session[:user_id] = user.id
-      redirect_to dashboard_user_path(user)
+      redirect_to dashboard_project_path(user)
     else
       redirect_to '/index'
     end
